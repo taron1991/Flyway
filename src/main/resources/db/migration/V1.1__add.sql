@@ -1,0 +1,1 @@
+insert into  school(name) values ('648');

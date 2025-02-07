@@ -1,0 +1,1 @@
+CREATE table school(id serial primary key ,name varchar);
