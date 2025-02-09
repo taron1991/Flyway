@@ -14,4 +14,5 @@ spring:
   flyway:
     enabled: true                # activate Flyway
     schemas: migration_test      # if we don't want to clear our db we create new scheme and attach it to flyway
+    locations: classpath:db/migration
 
